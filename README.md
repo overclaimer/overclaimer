@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @overclaimer
+- 👀 I’m interested in coding bots.
+- 🌱 I’m currently learning AI.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me, please don't.
